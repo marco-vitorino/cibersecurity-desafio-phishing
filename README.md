@@ -21,7 +21,7 @@
 - Método de ataque (opção 2): ``` Site Cloner ```
 - ![image](https://github.com/user-attachments/assets/2a1555ed-53aa-4dfe-a1cf-b86ec251d0e9)
 
-- Obtendo o endereço da máquina: ``` ifconfig ```
+- Utilizar o endereço da máquina Kali para criar o servidor (ip sugerido pela ferramente): ``` 192.168.5.158 ```
 - ![image](https://github.com/user-attachments/assets/41309615-3eb0-4a06-bbaa-b1bf61eb4c1a)
 
 - URL para clone: http://www.instagram.com
